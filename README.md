@@ -6,6 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
+![Static Badge](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
+
 
 ## Follow Me 
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://x.com/Artashes788555?t=cqon_3TOcSfYzXUYe30v5A&s=09)
